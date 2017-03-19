@@ -23,3 +23,5 @@ set ai
 set paste
 " I don't remember
 let g:vim_json_syntax_conceal = 0
+
+" consider http://vim.wikia.com/wiki/Display_output_of_shell_commands_in_new_window
